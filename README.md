@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Chudasama Jagdish
-- 👀 I’m interested in UI Designing
-- 🌱 I’m currently learning React JS
+- 👀 UI/UX Developer 
+- 🌱 Exploring the WEB3 world
 - 📫 How to reach me chudasamajagdish12@gmail.com
 
 <!---
